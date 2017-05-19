@@ -1,0 +1,25 @@
+{
+  "name": "burgersequelize",
+  "version": "1.0.0",
+  "description": "trying burger app again",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yousrat/Burgerproject.git"
+  },
+  "keywords": [
+    "orm",
+    "sequelize",
+    "mysql",
+    "handlebars"
+  ],
+  "author": "yousra elbanna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yousrat/Burgerproject/issues"
+  },
+  "homepage": "https://github.com/Yousrat/Burgerproject#readme"
+}
